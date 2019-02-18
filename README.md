@@ -16,7 +16,7 @@ Sample website with plenty of files for demos
 
 ## How to contribute
 
-bla bla - please fork and blah
+bla bla - please fork and blah dasda adsda das
 
 ### Copyright
 
