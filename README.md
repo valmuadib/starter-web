@@ -20,4 +20,4 @@ bla bla - please fork and blah dasda adsda das
 
 ### Copyright
 
-dasdadada
+improve copyright notice
